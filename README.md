@@ -14,7 +14,7 @@ Building projects that combine AI/ML & intelligence
 
 ---
 
-#Featured Projects (not added here)
+# Featured Projects (not added here)
 - Driver Drowsiness Detection System-Anti Sleep Alarm System
 - Smart Seat Sensor for Safety Alerts
 - RF Signal Classification using AI
